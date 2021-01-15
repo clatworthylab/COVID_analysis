@@ -1,3 +1,6 @@
 [submodule "CovidPBMC"]
 	path = CovidPBMC
 	url = https://github.com/scCOVID-19/COVIDPBMC
+[submodule "COVIDPBMC"]
+	path = COVIDPBMC
+	url = https://github.com/scCOVID-19/COVIDPBMC
