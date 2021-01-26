@@ -3,4 +3,4 @@ Collated scripts and data for Clatworthy Lab's contributions towards scRNAseq an
 
 ## Projects
 
-1) **COVIDPBMC** - collaborative scRNAseq project between Ncl, Sanger/UCL and UCAM. Our lab was in charge of the the B cell analysis.
+1) **COVIDPBMC** - collaborative scRNAseq project between Ncl, Sanger/UCL and UCAM. Our lab was in charge of the B cell analysis.
