@@ -4,3 +4,6 @@
 [submodule "COVIDPBMC"]
 	path = COVIDPBMC
 	url = https://github.com/scCOVID-19/COVIDPBMC
+[submodule "COVID_collab_Liu2021_Cell"]
+	path = COVID_collab_Liu2021_Cell
+	url = https://github.com/clatworthylab/COVID_collab_Liu2021_Cell
